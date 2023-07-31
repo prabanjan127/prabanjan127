@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Pursuing **Computer Science Engineering**
 
-- 🌱 I’m currently learning **JavaScript libraries, UI & UX, Flutter**
+- 🌱 I’m currently learning **JavaScript libraries, Node.js, UI & UX, Flutter**
 
 - 👯 I’m looking to collaborate on **Front-end & Full stack development**
 
