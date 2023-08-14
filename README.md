@@ -9,12 +9,12 @@
 
 - 👯 I’m looking to collaborate on **Front-end & Full stack development**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Java,CCNA,Kali Linux,SQL,DBMS**
+- 💬 Ask me about **HTML,CSS,JavaScript,Java,CCNA,Kali Linux,SQL,BootStrap**
 -  📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/15b4-GQVhpIgxNcS9f8ACH48AkMw6bhxT/view?usp=drivesdk)
 
 - 📫 How to reach me **prabanjansakthibabu@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://codepen.io/@prabanjan127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@prabanjan127" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prabanjan-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabanjan-s" height="30" width="40" /></a>
