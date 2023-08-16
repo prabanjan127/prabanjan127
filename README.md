@@ -30,7 +30,7 @@
 ### 🛠️ My Projects
 <a href="https://potoutsolutions.netlify.app" target="_blank"> <img alt="artistify" src="https://potoutsolutions.netlify.app/img/logo/WhatsApp_Image_2022-11-14_at_14.57.48-removebg-preview.png" height="68" align="left"> </a>
 <a href="https://ashokan.netlify.app" target="_blank"> <img alt="sheetsdatabase" src="https://t4.ftcdn.net/jpg/02/30/08/65/240_F_230086513_IEzdXmKEseTwFIz4vxmGUbnfHU45jclr.jpg"  height="68" align="left"> </a>
-<a href="https://vcsconsultancy.netlify.app/" target="_blank"> <img alt="readmeicons" src="https://vcsconsultancy.netlify.app/assets/img/banner/logol.jpg" height="68" align="left"> </a>
+<a href="https://vcsconsultancy.netlify.app/" target="_blank"> <img alt="readmeicons" src="https://vcsconsultancy.netlify.app/assets/img/banner/logol.jpg" height="68" align="left"> </a><a href="https://www.figma.com/proto/XtrWYpD4VhOyVhB6ocHNjd/design_1?page-id=0%3A1&type=design&node-id=8-455&t=HsekGtW6SXkVOd0X-0&scaling=min-zoom" target="_blank"> <img alt="figma_project" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5hxMYEKqg_8EmC2A5fyZlelYZsfaN4bprSDePR2yB&s" height="68" align="left"></a>
 
 <br><br><br><br><br>
 <h3 align="left">Support:</h3>
