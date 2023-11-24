@@ -7,10 +7,10 @@
 
 - 🌱 I’m currently learning **JavaScript libraries, Node.js, UI & UX, and Flutter*
 
-- 👯 I’m looking to collaborate onfront-end and& Full stack development**
+- 👯 I’m looking to collaborate on Front-end and full-stack development.
 
 - 💬 Ask me about **HTML,CSS,JavaScript,Java,Python,CCNA,Kali Linux,MySQL,BootStrap**
-Check outt my [resume](https://drive.google.com/file/d/1NqyK4-yr0pJL3S237fXytsI9p_tnusWs/view?usp=drivesdk)
+Check out my [resume](https://drive.google.com/file/d/1NqyK4-yr0pJL3S237fXytsI9p_tnusWs/view?usp=drivesdk)
 
 - 📫 How to reach me **prabanjansakthibabu@gmail.com**
 
