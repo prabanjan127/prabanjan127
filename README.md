@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Front-end and full-stack development.
 
 - 💬 Ask me about **HTML,CSS,JavaScript,Java,Python,CCNA,Kali Linux,MySQL,BootStrap**
-Check out my [resume]([https://drive.google.com/file/d/1NqyK4-yr0pJL3S237fXytsI9p_tnusWs/view?usp=drivesdk](https://drive.google.com/file/d/1_ZxGtqF9PZ38EfTr68nfNgszPiYB_fJE/view))
+Check out my [resume](https://drive.google.com/file/d/1_ZxGtqF9PZ38EfTr68nfNgszPiYB_fJE/view)
 
 - 📫 How to reach me **prabanjansakthibabu@gmail.com**
 
