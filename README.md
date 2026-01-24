@@ -3,13 +3,13 @@
 <h3 align="center">"Frontend Engineering: Where Art Meets Code"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
-- 🔭 I’m currently Pursuing **Computer Science Engineering**
+- 🔭 I’m holding Pursuing **Computer Science Engineering**
 
 - 🌱 I’m currently learning **JavaScript libraries, Node.js, UI & UX, and Flutter*
 
 - 👯 I’m looking to collaborate on Front-end and full-stack development.
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Java,Python,CCNA,Kali Linux,MySQL,BootStrap**
+- 💬 Ask me about **HTML,CSS,JavaScript,Java,Python,CCNA,Kali Linux,MySQL,BootStrap,Go**
 Check out my [resume](https://drive.google.com/file/d/1_ZxGtqF9PZ38EfTr68nfNgszPiYB_fJE/view)
 
 - 📫 How to reach me **prabanjansakthibabu@gmail.com**
