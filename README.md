@@ -5,7 +5,7 @@
 
 - 🔭 I’m a **Computer Science Engineering**
 
-- 🌱 I’m currently learning **JavaScript libraries, Node.js,Go, UI & UX, and Flutter*
+- 🌱 I’m currently learning **JavaScript libraries, Node.js, Go, UI & UX, and Flutter*
 
 - 👯 I’m looking to collaborate on Front-end, full-stack development and Ethical Hacking.
 
